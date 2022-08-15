@@ -1,0 +1,38 @@
+.xrow {
+	background-color: transparent;
+	width: 100%;
+	height: auto;
+	min-height: 20px;
+	border: none;
+	content: "";
+    clear: both;
+    display: table;	
+}
+
+[class*="xcol-"] { 
+	background-color: transparent;
+	height: auto;
+	border: none;
+	float: left;
+	clear: none;
+}
+
+.xcol-p5 {width: 5%;}
+.xcol-1 {width: 10%;}
+.xcol-p15 {width: 15%;}
+.xcol-2 {width: 20%;}
+.xcol-qtr {width: 25%;}
+.xcol-3 {width: 30%;}
+.xcol-third {width: 33.333%;}
+.xcol-4 {width: 40%;}
+.xcol-4p5 {width: 45%;}
+.xcol-4p75 {width: 47.5%;}
+.xcol-5 {width: 50%;}
+.xcol-6 {width: 60%;}
+.xcol-7 {width: 70%;}
+.xcol-8 {width: 80%;}
+.xcol-9 {width: 90%;}
+.xcol-max {width: 100%;}
+
+
+

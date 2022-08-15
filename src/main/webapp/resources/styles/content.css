@@ -1,0 +1,270 @@
+#pageHeaderRow {
+	background-color:#368BC1;
+}
+
+.heading1, .heading2, .heading3, .heading4 {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.heading1, .heading1-bold {
+	padding: 5px 15px;
+    font-size: 24px;
+}
+
+.heading2, .heading2-bold {
+	color: #888888;
+    font-size: 20px;
+}
+
+.heading3, .heading3-bold {
+    color: #666666;
+    font-size: 14px;
+}
+
+.heading4, .heading4-bold {
+    color: #AAAAAA;
+	font-size: 12px;
+}
+
+.heading1-bold, .heading2-bold, .heading3-bold, .heading4-bold {
+	font-weight: bold;
+}
+
+
+
+table.nav-menu {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal normal;
+}
+
+table.attachments-listing {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal normal;
+    border-spacing: 10px;
+}
+
+table.entity-detail {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal normal;
+}
+
+td {
+	height: 30px;
+}
+
+tr.listing {
+	transition: background 0.2s ease-in;
+}
+
+tr.listing:hover {
+  background-color: #FEEEBE;
+}
+
+td.listing-header {
+	font-size: 10px;
+}
+
+td.attachments-listing-cell {
+    border-bottom: 1pt solid #DFDFDF;
+   	padding: 5px;
+}
+
+table.form, p {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal normal;
+}
+
+p {
+	font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a.headerLinks, 
+a.headerMenuLinks, 
+a.currentHeaderMenuOption {
+	font-size: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: .15em;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 0px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;    
+    font-family: 'Open Sans', sans-serif;
+}
+
+a.headerLinks:link, 
+a.headerLinks:visited, 
+a.headerLinks:active, 
+a.headerMenuLinks:link, 
+a.headerMenuLinks:visited {
+    color: #ffffff;
+}
+
+a.headerMenuLinks:active, 
+a.currentHeaderMenuOption {
+    color: #FFDC6E;
+    text-decoration: none;
+}
+
+a.headerLinks:hover, 
+a.headerMenuLinks:hover, 
+a.currentHeaderMenuOption:hover {
+    color: #FFDC6E;
+    text-decoration: none;
+}
+
+a.cardLink:link, 
+a.cardLink:visited, 
+a.cardLink:active {
+    font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	font-style: normal;
+	font-size:12px;	
+	color: #0094B9;
+}
+
+a.breadcrumbs-link,
+a.exhorting-link,
+.breadcrumbs-nav, 
+.field-label, 
+.informational-text {
+	font-size: 13px;
+	color: #0094B9;
+}
+
+a.exhorting-link:link, 
+a.exhorting-link:visited, 
+a.exhorting-link:active {
+	font-style: italic;
+	font-weight: bold;
+}
+
+a.prominent-link:link, a.regular-link:link, 
+a.prominent-link:visited, a.regular-link:visited, 
+a.prominent-link:active, a.regular-link:active {
+    text-decoration: none;
+	font-style: normal;
+	color: #0094B9;
+}
+
+a.prominent-link, 
+a.regular-link {
+	font-weight: bold;
+}
+
+a.prominent-link {
+	font-size: 14px;
+}
+
+a.regular-link, 
+a.card-link {
+	font-size: 12px;
+}
+
+a.breadcrumbs-link:hover, 
+a.breadcrumbs-link:active, 
+a.breadcrumbs-link:visited {
+	color: #0070C0;
+}
+
+.field-label {
+    color: #777777;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal; 
+}
+
+.attachments-listing-header {
+    font-style: normal;
+	font-size: 11px;
+	font-weignt: bold;
+	font-color: #555555;
+}
+
+.informational-text {
+	color: #555555;
+	font-style: italic;
+}
+
+.file-upload {
+    padding: 3px 3px;
+    margin-bottom: 0;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border:thin solid #ddd;
+    border-radius: 0px;
+    display: inline-block;
+}
+
+#listTable {
+	border-collapse: collapse;
+	border: 1px; 
+	border-color: #E5E4E2;
+	bgcolor: #FFFFFF;
+}
+
+span.error {
+	color: #FF0000;
+}
+
+div.errors {
+	background-color: #ffcccc;
+	border: 2px solid red;
+}
+
+.footer-text {
+    color: #E5E4E2;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-size: 11px;
+}
+
+/* Overridden Bootstrap CSS */
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: #f9f9f9;
+    opacity: 1;
+}
+
+
+
