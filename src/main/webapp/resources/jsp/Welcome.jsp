@@ -24,7 +24,7 @@
 								This is a simple prototype to demonstrate the kick off of the deployment process that includes running automated tests when a change is pushed to the code repository. 
 								A change will be made where a line of text with a link to the GinnieMae website will be added below this paragraph. 
 								<p><p>
-								<!-- The following line needs to be uncommented for the link to appear -->
+								<!-- The following line needs to be uncommented for the link to appear again -->
 								<!-- Click <a href="https://www.ginniemae.gov">here</a> to go to the GinnieMae website. -->
 							</span>
 						</div>
