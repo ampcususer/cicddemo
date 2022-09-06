@@ -401,5 +401,14 @@
 			 <output-directory>C:\Tools\jboss\wildfly-24.0.1.Final\standalone\deployments</output-directory>
          </properties>
      </profile>
+  	<!-- Test environment @ 162.222.203.184 -->
+     <profile>
+         <id>tst</id>
+         <!-- Dev Env. Properties -->
+         <properties>
+             <profile.name>tst</profile.name>
+			 <output-directory>/opt/wildfly/standalone/deployments</output-directory>
+         </properties>
+     </profile>     
   </profiles>  
 </project>
