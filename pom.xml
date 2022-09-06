@@ -350,7 +350,7 @@
 		    <configuration>
 				<webXml>src\main\webapp\WEB-INF\web.xml</webXml>
 				<warName>${war-filename}</warName>		        
-  		    	<outputDirectory>C:\Tools\jboss\wildfly-24.0.1.Final\standalone\deployments</outputDirectory>
+  		    	<outputDirectory>${output-directory}</outputDirectory>
 				<webResources>
 			    	<resource>
 			    		<filtering>true</filtering>
@@ -404,7 +404,7 @@
   	<!-- Test environment @ 162.222.203.184 -->
      <profile>
          <id>tst</id>
-         <!-- Dev Env. Properties -->
+         <!-- Test Env. Properties -->
          <properties>
              <profile.name>tst</profile.name>
 			 <output-directory>/opt/wildfly/standalone/deployments</output-directory>
