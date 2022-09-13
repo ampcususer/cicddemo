@@ -17,13 +17,13 @@
 <div id="outer-container">
 	<div class="xrow" id="parentRow1">
 		<div class="xcol-max">
-			<div id="website-header">
+			<div id="website-header" style="height:65px;">
 				<div class="nav">
 					<div class="xrow">
-						<div class="xcol-3">
-							<img src="resources/images/headerlogo.jpg" height="50" width="186">
+						<div class="xcol-3" style="padding-top:8px;padding-bottom:7px;">
+							<a href="https://www.ampcus.com/"><img src="resources/images/headerlogo.jpg" height="50" width="186"></a>
 						</div>
-						<div class="xcol-7" align='right'>
+						<div class="xcol-4" align='right'>
 							<div class="xcol-7" align='right'>
 								&nbsp;
 							</div>
@@ -33,6 +33,10 @@
 							<div class="xcol-p15" style="padding-top:15px;padding-left:10px;" align='right'>
 								&nbsp;
 							</div>
+						</div>
+						<div class="xcol-3" style="padding-top:8px;padding-bottom:7px;" align='right'>
+							<!-- Ampcus logo image & link can be added here as an alternate -->
+							&nbsp;
 						</div>
 					</div>
 				</div>
