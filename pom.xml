@@ -12,6 +12,8 @@
   </parent>  
   <properties>
   		<java.version>11</java.version>
+		<maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>  		
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <resource.directory>src/main/resources</resource.directory>
@@ -373,8 +375,8 @@
 	    <plugin>
 	        <artifactId>maven-compiler-plugin</artifactId>
 	        <configuration>
-	            <source>${java.version}</source>
-	            <target>${java.version}</target>
+	            <source>${maven.compiler.source}</source>
+	            <target>${maven.compiler.target}</target>
 	        </configuration>
 	    </plugin>
 	</plugins>
