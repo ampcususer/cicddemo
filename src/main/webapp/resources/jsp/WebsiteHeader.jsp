@@ -17,7 +17,7 @@
 <div id="outer-container">
 	<div class="xrow" id="parentRow1">
 		<div class="xcol-max">
-			<div id="website-header" style="height:65px;">
+			<div id="website-header" style="height:65px;"> 
 				<div class="nav">
 					<div class="xrow">
 						<div class="xcol-3" style="padding-top:8px;padding-bottom:7px;">
