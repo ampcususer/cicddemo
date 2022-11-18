@@ -17,12 +17,12 @@
 <div id="outer-container">
 	<div class="xrow" id="parentRow1"> 
 		<div class="xcol-max">
-			<div id="website-header" style="height:65px;">
+			<div id="website-header" style="height:65px;"> 
 				<div class="nav">
 					<div class="xrow">
 						<div class="xcol-3" style="padding-top:8px;padding-bottom:7px;">
-							<!-- <a href="https://www.ampcus.com/"><img src="resources/images/headerlogo.jpg" height="50" width="186"></a> -->
-							<img src="resources/images/headerlogo.jpg" height="50" width="186">
+							<a href="https://www.ampcus.com/"><img src="resources/images/headerlogo.jpg" height="50" width="186"></a> 
+							<!-- <img src="resources/images/headerlogo.jpg" height="50" width="186">-->
 						</div>
 						<div class="xcol-4" align='right'>
 							<div class="xcol-7" align='right'>
