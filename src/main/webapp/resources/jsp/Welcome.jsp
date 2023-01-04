@@ -6,7 +6,7 @@
 		<div id="invisible-placement-container" style="padding-bottom:0px;">
 			<div style="width: 100%; margin: 0 auto; text-align:center;">
 				<span class="wsheading-text">
-					CI/CD Demo 1 Prototype
+					CI/CD Demo Prototype
 				</span>
 			</div>
 		</div>
