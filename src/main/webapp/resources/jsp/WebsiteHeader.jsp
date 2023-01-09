@@ -21,8 +21,8 @@
 				<div class="nav">
 					<div class="xrow">
 						<div class="xcol-3" style="padding-top:8px;padding-bottom:7px;">
-							<a href="https://www.ampcus.com/services/digital-transformation/"><img src="resources/images/headerlogo.jpg" height="50" width="186"></a> 
-							<!-- <img src="resources/images/headerlogo.jpg" height="50" width="186"> -->
+							<!-- <a href="https://www.ampcus.com/services/digital-transformation/"><img src="resources/images/headerlogo.jpg" height="50" width="186"></a> -->
+							&nbsp; 
 						</div>
 						<div class="xcol-4" align='right'>
 							<div class="xcol-7" align='right'>
@@ -37,7 +37,8 @@
 						</div>
 						<div class="xcol-3" style="padding-top:8px;padding-bottom:7px;" align='right'>
 							<!-- Ampcus logo image & link can be added here as an alternate -->
-							&nbsp;
+							<a href="https://www.ampcus.com/services/digital-transformation/"><img src="resources/images/headerlogo.jpg" height="50" width="186"></a>
+							<!-- &nbsp; -->
 						</div>
 					</div>
 				</div>
