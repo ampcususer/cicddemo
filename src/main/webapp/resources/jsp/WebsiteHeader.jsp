@@ -32,7 +32,7 @@
 								&nbsp;
 							</div>
 							<div class="xcol-p15" style="padding-top:15px;padding-left:10px;" align='right'>
-								&nbsp;
+								&nbsp;&nbsp;
 							</div>
 						</div>
 						<div class="xcol-3" style="padding-top:8px;padding-bottom:7px;" align='right'>
